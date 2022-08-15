@@ -37,7 +37,6 @@ backgroundColor: black
 - Strategies for Prototyping
   - DEMOs
 
-
 ---
 <!-- center -->
 ## The Three Elements of Sound
