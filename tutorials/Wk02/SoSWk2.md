@@ -29,8 +29,8 @@ backgroundColor: black
 
 ---
 <!-- _theme: gaia -->
-## Creation tools for sound/music
-- A Brief introduction to Digital Audio Tools
+## Digital Audito Creation tools for sound/music
+- A Brief introduction to Digital Audio
 <!-- - How we can make use of it -->
 - Tools for making Digital Musical Instruments
 
