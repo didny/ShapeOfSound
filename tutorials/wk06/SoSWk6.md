@@ -90,7 +90,7 @@ https://p5js.org/reference/#/libraries/p5.sound
 
 
 ---
-# Week7
-Collective presentation then Groups consultation
-Presentation of music track (audio) + Review of technical and aesthetic development
-Production of a dirty prototype of final concept + CAD renders
+# Week7 (after RW)
+- Collective presentation then Groups consultation
+- Presentation of music track (audio) + Review of technical and aesthetic development
+- Production of a dirty prototype of final concept + CAD renders
