@@ -273,8 +273,8 @@ This next step could be for example,
   - Explore more p5.sound capabilities such as [SoundSynthesis](https://p5js.org/reference/#/p5.MonoSynth), [SoundAnalysis](https://p5js.org/reference/#/p5.FFT) 
     https://p5js.org/reference/#/libraries/p5.sound
     
-　- Send multiple sensor input values from the Arduino.
-　- More complex sound synthesis using p5.Synth
+  - Send multiple sensor input values from the Arduino.
+
   - Add Interaction with smartphone's internal sensors (accelerometer, etc.)
      https://github.com/OhJia/p5MobileWebExamples
   - Use Tone.js library for more precise timing control and advanced sound synthesis
