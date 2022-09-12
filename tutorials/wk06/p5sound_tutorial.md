@@ -270,14 +270,13 @@ function onMIDIFailure(e) {
 In this tutorial, we have done a simple sound file playback in a browser triggered by a USB-MIDI input.
 
 This next step could be for example, 
-  - Explore more p5.sound capabilities such as 
-    SoundSynthesis, SoundAnalysis 
+  - Explore more p5.sound capabilities such as [SoundSynthesis](https://p5js.org/reference/#/p5.MonoSynth), [SoundAnalysis](https://p5js.org/reference/#/p5.FFT) 
     https://p5js.org/reference/#/libraries/p5.sound
 　- Send multiple sensor input values from the Arduino.
 　- More complex sound synthesis using p5.Synth
-    - Interaction with smartphone's internal sensors (accelerometer, etc.)
-       https://github.com/OhJia/p5MobileWebExamples
-    - Use Tone.js library for more precise timing control and advanced sound synthesis
+  - Add Interaction with smartphone's internal sensors (accelerometer, etc.)
+     https://github.com/OhJia/p5MobileWebExamples
+  - Use Tone.js library for more precise timing control and advanced sound synthesis
 　　https://pdm.lsupathways.org/3_audio/
 
 
