@@ -21,7 +21,7 @@ load the library. If you are using editor.p5js.org site, its already included.
 
 <!--SoundFile 01 p5.js -->
 
-Code: https://editor.p5js.org/didny/full/BOHN1rJCl
+https://editor.p5js.org/didny/sketches/BOHN1rJCl
 
 
 ```js
