@@ -272,6 +272,7 @@ In this tutorial, we have done a simple sound file playback in a browser trigger
 This next step could be for example, 
   - Explore more p5.sound capabilities such as [SoundSynthesis](https://p5js.org/reference/#/p5.MonoSynth), [SoundAnalysis](https://p5js.org/reference/#/p5.FFT) 
     https://p5js.org/reference/#/libraries/p5.sound
+    
 　- Send multiple sensor input values from the Arduino.
 　- More complex sound synthesis using p5.Synth
   - Add Interaction with smartphone's internal sensors (accelerometer, etc.)
